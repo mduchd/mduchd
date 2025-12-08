@@ -19,7 +19,7 @@
 
 ## 💡 About Me & My Journey
 
-I am a **3rd-year Computer Science student** from Hanoi, Vietnam. I don't just write code; I aim to build **secure, scalable, and production-ready** applications.
+I am a **3rd-year Information technology student** from Hanoi, Vietnam. I don't just write code; I aim to build **secure, scalable, and production-ready** applications.
 
 Currently, I am undertaking an intensive challenge to master the entire Software Development Lifecycle (SDLC):
 
@@ -70,7 +70,7 @@ I am transitioning from a Backend-focused developer to a versatile **Full-Stack 
 
 ---
 
-## ✨ Featured Projects (What I'm Building)
+## ✨ Featured Projects 
 
 ### 🛒 [E-Commerce Spring Boot Ultimate] (In Progress)
 *A full-stack, production-grade e-commerce platform built to simulate real-world traffic and security standards.*
