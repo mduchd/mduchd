@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Hi, I'm Duc</h1>
-  
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Building+Real+World+Systems;Future+DevOps+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=23F7DD&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Building+Real-World+Systems" alt="Typing SVG" />
   </a>
   
-  <br/><br/>
+  <br/>
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" alt="Coding Animated" />
 
@@ -14,8 +14,6 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mduchd&label=Profile%20views&color=0e75b6&style=flat-square" alt="mduchd" /> 
 </p>
-
----
 
 ## ABOUT ME
 
@@ -120,10 +118,6 @@ Award: **Excellent Study Scholarship**
 **Language Proficiency**  
 English: Good working level.  
 Goal: Preparing for IELTS (Target: 7.0).
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" />
-</div>
 
 <div align="center">
     <b>"Everything you want is on the other side of the fear"</b>
