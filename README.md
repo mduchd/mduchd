@@ -17,13 +17,13 @@
 
 ## ABOUT ME
 
-I am a 3rd-year Information Technology student from Hanoi, Vietnam, with a strong interest in software engineering, Java development, and backend systems. I am dedicated to building stable, scalable applications and continuously improving my technical foundation.
+I am a 3rd-year IT student from Hanoi, passionate about software engineering, Java development, and backend systems. I focus on building stable, scalable applications and strengthening my core foundations.
 
-My current focus is on backend development with Spring Boot, learning real-world design patterns, and understanding how production systems are built and maintained. I am actively looking for an internship position where I can contribute, learn from experienced engineers, and grow in a professional environment.
+My current work centers around Spring Boot backend development, real-world design patterns, and understanding how production systems operate. I am seeking an internship where I can learn from experienced engineers and contribute to meaningful projects.
 
-In the long term, I aim to expand into DevOps and cloud technologies to gain a deeper understanding of system architecture and deployment pipelines. I also plan to explore Artificial Intelligence to enhance application capabilities and stay competitive in the modern tech landscape.
+In the future, I aim to grow toward DevOps and cloud technologies to understand system infrastructure end-to-end. I also plan to study AI to enhance application capabilities and stay aligned with modern development trends.
 
-I am self-motivated, adaptable, and always ready to learn new technologies and improve my skills.
+I am proactive, adaptable, and always committed to improving my skills.
 
 
 <div align="center">
