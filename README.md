@@ -87,28 +87,6 @@ I am moving from a Backend developer to a **Full-Stack Engineer**.
 
 ---
 
-## FEATURED PROJECT
-
-### E-Commerce Spring Boot Ultimate (In Progress)
-
-This is a complete online shopping system that I built from scratch. My goal was to make it work like a real professional application that can handle many users at the same time.
-
-**Tech Stack:**  
-Spring Boot 3, Spring Security, ReactJS, PostgreSQL, Docker, Redis.
-
-**Key Features:**
-
-**Security and Access Control**  
-I created a secure login system using JWT. This makes sure that the server knows exactly who is making a request. I also set up different roles (Admin and User) so that normal users cannot access admin features.
-
-**Fast and Reliable Data**  
-The application uses Hibernate (JPA) to manage data efficiently. I made sure that product searches and filtering are very fast, even with a lot of items. I also ensured that when a user places an order, the database updates correctly without any errors.
-
-**Cloud Deployment**  
-I containerized the application using Docker. This allows me to easily run the project on any computer or cloud server like AWS without setup issues.
-
----
-
 ## EDUCATION
 
 **Hanoi Architectural University (HAU)**  
@@ -121,9 +99,5 @@ Award: **Excellent Study Scholarship**
 **Language Proficiency**  
 English: Good working level.  
 Goal: Preparing for IELTS (Target: 7.0).
-
-<div align="center">
-    <b>"Everything you want is on the other side of the fear"</b>
-</div>
 
 
