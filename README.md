@@ -30,10 +30,18 @@ I am proactive, adaptable, and always committed to improving my skills.
   <br/>
   <b>Connect with me:</b>
   <br/><br/>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> 
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> 
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://www.linkedin.com/in/nguyen-minh-duc-146779349/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/nguyen.minh.uc.716662/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/minh_duc3010/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:EMAIL_CUA_BAN@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
 ---
@@ -44,7 +52,6 @@ I am moving from a Backend developer to a **Full-Stack Engineer**.
 
 ### Backend Core
 <p>
-  <!-- Keep badges on the SAME LINE so GitHub renders them inline and they wrap nicely -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />&nbsp;
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />&nbsp;
@@ -74,7 +81,6 @@ I am moving from a Backend developer to a **Full-Stack Engineer**.
 
 ### Tools & Desktop
 <p>
-  <!-- Java Swing: use Java logo + Swing label (no official Swing logo) -->
   <img src="https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing" />&nbsp;
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" />&nbsp;
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />&nbsp;
@@ -89,15 +95,9 @@ I am moving from a Backend developer to a **Full-Stack Engineer**.
 
 ## EDUCATION
 
-**Hanoi Architectural University (HAU)**  
-Information Technology | 3rd Year Student
+**Hanoi Architectural University (HAU)** Information Technology | 3rd Year Student
 
-**Academic Performance**  
-GPA: **3.24 / 4.0**  
-Award: **Excellent Study Scholarship**
+**Academic Performance** GPA: **3.27 / 4.0** Award: **Excellent Study Scholarship**
 
-**Language Proficiency**  
-English: Good working level.  
+**Language Proficiency** English: Good working level.  
 Goal: Preparing for IELTS (Target: 7.0).
-
-
