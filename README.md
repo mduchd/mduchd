@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Duc</h1>
+  <h1>Hi, I'm Du</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=23F7DD&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Building+Real-World+Systems" alt="Typing SVG" />
