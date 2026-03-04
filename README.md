@@ -97,7 +97,7 @@ I am moving from a Backend developer to a **Full-Stack Engineer**.
 
 **Hanoi Architectural University (HAU)** Information Technology | 3rd Year Student
 
-**Academic Performance** GPA: **3.27 / 4.0** Award: **Excellent Study Scholarship**
+**Academic Performance** GPA: **3.31 / 4.0** Award: **Excellent Study Scholarship**
 
 **Language Proficiency** English: Good working level.  
 Goal: Preparing for IELTS (Target: 7.0).
