@@ -55,18 +55,26 @@ I am moving from a Backend developer to a **Full-Stack Engineer**.
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />&nbsp;
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />&nbsp;
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />&nbsp;
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge" />&nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge" />
 </p>
 
-### Database & DevOps
+### Database
 <p>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />&nbsp;
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+### Cloud, DevOps & Deployment
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" />&nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />&nbsp;
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />&nbsp;
+  <img src="https://img.shields.io/badge/VPS-4A4A4A?style=for-the-badge&logo=linux&logoColor=white" alt="VPS" />
 </p>
 
 ### Frontend & Others
@@ -97,7 +105,7 @@ I am moving from a Backend developer to a **Full-Stack Engineer**.
 
 **Hanoi Architectural University (HAU)** Information Technology | 3rd Year Student
 
-**Academic Performance** GPA: **3.31 / 4.0** Award: **Excellent Study Scholarship**
+**Academic Performance** GPA: **3.27 / 4.0** Award: **Excellent Study Scholarship**
 
 **Language Proficiency** English: Good working level.  
 Goal: Preparing for IELTS (Target: 7.0).
