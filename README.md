@@ -6,7 +6,7 @@ Backend-focused Software Engineering student based in Hanoi. Currently building 
 
 ### 📌 About Me
 
-- 🎓 **Education:** 3rd-year IT student at **Hanoi Architectural University (HAU)** (GPA: 3.45/4.0 — Excellent Study Scholarship)
+- 🎓 **Education:** 4rd-year IT student at **Hanoi Architectural University (HAU)** (GPA: 3.45/4.0 — Excellent Study Scholarship)
 - 🎯 **Current Focus:** Enterprise backend architecture, design patterns, and RESTful APIs with Spring Boot.
 - 🌱 **Learning & Exploring:** DevOps, Cloud infrastructure (AWS, Docker), and modern frontend workflows.
 - 💬 **Languages:** Vietnamese (Native), English (Working proficiency — targeting IELTS 7.0).
