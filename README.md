@@ -62,6 +62,7 @@ Backend-focused Software Engineering student based in Hanoi. Currently building 
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=flat&logo=java&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 
 ---
